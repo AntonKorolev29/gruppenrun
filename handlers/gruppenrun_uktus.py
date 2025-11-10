@@ -199,7 +199,7 @@ async def gruppenrun_uktus_payment_type(callback_query: types.CallbackQuery, sta
     else:  # uktus_payment_monthly
         payment_link = PAYMENT_MONTH_LINK_UKTUS
         price = 1000
-        payment_text = "месячный абонемент"
+        payment_text = "абонемент на месяц"
 
     # ОБЪЕДИНЁННОЕ СООБЩЕНИЕ
     payment_keyboard = InlineKeyboardMarkup(inline_keyboard=[
@@ -219,7 +219,7 @@ async def gruppenrun_uktus_payment_type(callback_query: types.CallbackQuery, sta
     
     # ОТДЕЛЬНОЕ СООБЩЕНИЕ С КНОПКОЙ "Я ОПЛАТИЛ"
     await callback_query.message.answer(
-        ""2️⃣После оплаты нажми кнопку ниже:",
+        "2️⃣После оплаты нажми кнопку ниже:",
         reply_markup=payment_kb
     )
         

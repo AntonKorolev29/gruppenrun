@@ -217,13 +217,6 @@ async def gruppenrun_uktus_payment_type(callback_query: types.CallbackQuery, sta
         parse_mode="HTML",
         reply_markup=payment_keyboard
     )
-
-    # КНОПКА "Я ОПЛАТИЛ"
-    await callback_query.message.answer(
-        f"После перевода нажми кнопку ниже:",
-        parse_mode="HTML",
-        reply_markup=payment_kb
-    )
     
     await state.set_state(GruppenrunUktusReg.waiting_for_payment)
     return

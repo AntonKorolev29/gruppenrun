@@ -219,7 +219,7 @@ async def gruppenrun_uktus_payment_type(callback_query: types.CallbackQuery, sta
     
     # ОТДЕЛЬНОЕ СООБЩЕНИЕ С КНОПКОЙ "Я ОПЛАТИЛ"
     await callback_query.message.answer(
-        "2️⃣После оплаты нажми кнопку ниже:",
+        "2️⃣После оплаты нвернись в бота и нажми кнопку ✅ Я оплатил(а) ниже:",
         reply_markup=payment_kb
     )
         

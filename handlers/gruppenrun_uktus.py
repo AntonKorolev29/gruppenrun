@@ -220,6 +220,7 @@ async def gruppenrun_uktus_payment_type(callback_query: types.CallbackQuery, sta
         reply_markup=payment_kb
     )
     await state.set_state(GruppenrunUktusReg.waiting_for_payment)
+    return
 
 # ===== ПОДТВЕРЖДЕНИЕ ОПЛАТЫ =====
 @router.message(F.text == "✅ Я оплатил(а)", GruppenrunUktusReg.waiting_for_payment)

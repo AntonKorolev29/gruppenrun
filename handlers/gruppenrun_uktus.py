@@ -13,7 +13,7 @@ from config import PAYMENT_DETAILS
 router = Router()
 
 # ID фото Группенран Трейл
-UKTUS_PHOTO_ID = `AgACAgIAAxkBAAIlP2kPFx1Jh0VZ24JYwKSsCTb1kYWCAAL1DGsbmwN5SBojvwUtZ7IZAQADAgADeQADNgQ`
+UKTUS_PHOTO_ID = "AgACAgIAAxkBAAIlP2kPFx1Jh0VZ24JYwKSsCTb1kYWCAAL1DGsbmwN5SBojvwUtZ7IZAQADAgADeQADNgQ"
 
 # FSM состояния для Группенран Уктус (Трейл)
 class GruppenrunUktusReg(StatesGroup):
@@ -609,3 +609,4 @@ async def uktus_to_main(callback: types.CallbackQuery, state: FSMContext):
         reply_markup=admin_kb if is_admin else main_kb
     )
     await callback.answer()
+

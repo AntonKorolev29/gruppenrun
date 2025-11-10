@@ -52,17 +52,10 @@ register_friend_uktus_kb = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text="🏠 Главное меню", callback_data="uktus_to_main")]
 ])
 
-
 # ===== ГЛАВНОЕ МЕНЮ ГРУППЕНРАН ТРЕЙЛ =====
-
-# ✅ ДЛЯ ОБЫЧНЫХ ПОЛЬЗОВАТЕЛЕЙ (REPLY КНОПКА)
 @router.message(F.text == "⚫ Группенран Трейл")
-async def gruppenrun_uktus_main_user(message: types.Message):
-    """Главное меню Группенран Трейл для пользователей"""
-    # Проверяем, админ ли это
-    if str(message.from_user.id) == str(ADMIN_ID):
-        return
-    
+async def gruppenrun_uktus_main(message: types.Message):
+    """Главное меню Группенран Трейл - для ВСЕХ пользователей"""
     main_text = (
         "🏔 <b>ГРУППЕНРАН х ТРЕЙЛ</b>\n\n"
         "Новое направление — трейловые тренировки на Уктусе!\n\n"
@@ -87,6 +80,7 @@ async def gruppenrun_uktus_main_user(message: types.Message):
         "❗️ Первая тренировка: 08.11.2025"
     )
     
+    # ВСЕМ показываем ПОЛЬЗОВАТЕЛЬСКОЕ меню (включая админа)
     await message.answer_photo(
         photo=UKTUS_PHOTO_ID,
         caption=main_text,

@@ -191,7 +191,7 @@ async def gruppenrun_uktus_payment_type(callback_query: types.CallbackQuery, sta
     await callback_query.answer()
     payment_type = callback_query.data
     await state.update_data(payment_type=payment_type)
-    
+
     if payment_type == "uktus_payment_onetime":
         payment_link = PAYMENT_LINK_UKTUS
         price = 300
@@ -200,25 +200,31 @@ async def gruppenrun_uktus_payment_type(callback_query: types.CallbackQuery, sta
         payment_link = PAYMENT_MONTH_LINK_UKTUS
         price = 1000
         payment_text = "месячный абонемент"
-    
-    payment_link_keyboard = InlineKeyboardMarkup(inline_keyboard=[
+
+    # ОБЪЕДИНЁННОЕ СООБЩЕНИЕ
+    payment_keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [InlineKeyboardButton(text=f"💳 Оплатить {price}₽", url=payment_link)]
     ])
-    
+
     await callback_query.message.answer(
         f"💳 <b>Оплата {payment_text} ({price}₽)</b>\n\n"
-        f"1️⃣ Нажми кнопку ниже для оплаты через ЮMoney.\n"
+        f"1️⃣ 🔗 Нажми кнопку ниже для оплаты через ЮMoney.\n\n"
+        f"🏦 <b>Прямой перевод:</b>\n"
+        f"• +7 (922) 608-01-01\n"
+        f"• OzonБанк\n"
+        f"• Антон Александрович К.\n\n"
         f"2️⃣ После оплаты вернись в бота и нажми '✅ Я оплатил(а)' внизу экрана.",
         parse_mode="HTML",
-        reply_markup=payment_link_keyboard
+        reply_markup=payment_keyboard
     )
-    
-    await callback_query.message.answer(PAYMENT_DETAILS, parse_mode="HTML")
+
+    # КНОПКА "Я ОПЛАТИЛ"
     await callback_query.message.answer(
         f"После перевода нажми кнопку ниже:",
         parse_mode="HTML",
         reply_markup=payment_kb
     )
+    
     await state.set_state(GruppenrunUktusReg.waiting_for_payment)
     return
 

@@ -429,12 +429,6 @@ async def back_to_main_menu(message: types.Message, state: FSMContext):
     
     # Очищаем ID (мы вышли из админ-панели)
     await state.update_data(last_admin_message_id=None)
-
-@router.message(F.text == "⚫ Группенран Трейл", StateFilter(None))
-async def show_uktus_list(message: types.Message, state: FSMContext):
-    """Показывает список участников Группенран Трейл"""
-    if str(message.from_user.id) != str(ADMIN_ID):
-        return
     
     # Удаляем предыдущее сообщение
     await delete_last_admin_message(message, state, message.bot)

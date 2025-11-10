@@ -212,7 +212,7 @@ async def gruppenrun_uktus_payment_type(callback_query: types.CallbackQuery, sta
         f"🏦 <b>Прямой перевод:</b>\n"
         f"• +7 (922) 608-01-01\n"
         f"• OzonБанк\n"
-        f"• Антон Александрович К.\n\n"
+        f"• Антон Александрович К.\n\n",
         parse_mode="HTML",
         reply_markup=payment_keyboard
     )

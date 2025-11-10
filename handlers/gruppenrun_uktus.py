@@ -213,11 +213,16 @@ async def gruppenrun_uktus_payment_type(callback_query: types.CallbackQuery, sta
         f"• +7 (922) 608-01-01\n"
         f"• OzonБанк\n"
         f"• Антон Александрович К.\n\n"
-        f"2️⃣ После оплаты вернись в бота и нажми '✅ Я оплатил(а)' внизу экрана.",
         parse_mode="HTML",
         reply_markup=payment_keyboard
     )
     
+    # ОТДЕЛЬНОЕ СООБЩЕНИЕ С КНОПКОЙ "Я ОПЛАТИЛ"
+    await callback_query.message.answer(
+        ""2️⃣После оплаты нажми кнопку ниже:",
+        reply_markup=payment_kb
+    )
+        
     await state.set_state(GruppenrunUktusReg.waiting_for_payment)
     return
 

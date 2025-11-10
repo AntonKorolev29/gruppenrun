@@ -55,11 +55,13 @@ register_friend_uktus_kb = InlineKeyboardMarkup(inline_keyboard=[
 
 # ===== ГЛАВНОЕ МЕНЮ ГРУППЕНРАН ТРЕЙЛ =====
 
-# ✅ ДЛЯ CALLBACK КНОПКИ ИЗ ГЛАВНОГО МЕНЮ
-@router.callback_query(F.data == "gruppenrun_uktus")
-async def gruppenrun_uktus_callback(callback: types.CallbackQuery):
-    """Главное меню Группенран Трейл (из главного меню)"""
-    await callback.answer()
+# ✅ ДЛЯ ОБЫЧНЫХ ПОЛЬЗОВАТЕЛЕЙ (REPLY КНОПКА)
+@router.message(F.text == "⚫ Группенран Трейл")
+async def gruppenrun_uktus_main_user(message: types.Message):
+    """Главное меню Группенран Трейл для пользователей"""
+    # Проверяем, админ ли это
+    if str(message.from_user.id) == str(ADMIN_ID):
+        return
     
     main_text = (
         "🏔 <b>ГРУППЕНРАН х ТРЕЙЛ</b>\n\n"
@@ -85,7 +87,7 @@ async def gruppenrun_uktus_callback(callback: types.CallbackQuery):
         "❗️ Первая тренировка: 08.11.2025"
     )
     
-    await callback.message.answer_photo(
+    await message.answer_photo(
         photo=UKTUS_PHOTO_ID,
         caption=main_text,
         parse_mode="HTML",
@@ -648,5 +650,6 @@ async def uktus_to_main(callback: types.CallbackQuery, state: FSMContext):
         reply_markup=admin_kb if is_admin else main_kb
     )
     await callback.answer()
+
 
 

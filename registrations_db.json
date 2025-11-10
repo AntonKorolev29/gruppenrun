@@ -1,0 +1,2253 @@
+{
+  "675750468": {
+    "name": "Королёв Антон",
+    "phone": "+79226080101",
+    "username": "AntonKorolev29",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-09-25",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2"
+      ],
+      "pace": "6:00"
+    },
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-10 12:14:20",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": "12.10.2025",
+      "gruppenrun_number": 279
+    },
+    "gruppenrun": {
+      "is_registered": true,
+      "registration_date": "2025-11-03 21:22:14",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": "09.11.2025",
+      "gruppenrun_number": 283
+    },
+    "bot_version": "1.1.0"
+  },
+  "616542087": {
+    "name": "Жалобин Алексей",
+    "phone": "79961754215",
+    "username": "Aleksii23",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "31.08.2025"
+    },
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-19 18:50:35",
+      "stages": "7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_7",
+        "stage_8",
+        "stage_9"
+      ],
+      "pace": "5:00"
+    }
+  },
+  "2095762441": {
+    "name": "Газизов Анатолий",
+    "phone": "79041783378",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:30"
+    }
+  },
+  "878602273": {
+    "name": "Ольга",
+    "phone": "79220268535",
+    "username": "pashchenkoolya",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_9"
+      ],
+      "pace": "6:0"
+    },
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 09:31:37",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-17 18:11:57",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    },
+    "bot_version": "1.1.0",
+    "iremel": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 11:03:39",
+      "payment_type": "full",
+      "payment_amount": 7500,
+      "diet_restrictions": "Нет",
+      "preferences": "Нет"
+    }
+  },
+  "282705620": {
+    "name": "Некрасов Евгений",
+    "phone": "+79041795454",
+    "username": "Kaonashi_Fox",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "282706763": {
+    "name": "Клепиков Роман",
+    "phone": "79655429000",
+    "username": "Treistan",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "31.08.2025"
+    },
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-09-28 12:51:17",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6"
+      ],
+      "pace": "6:00"
+    },
+    "gruppenrun": {
+      "is_registered": true,
+      "registration_date": "2025-10-18 22:13:08",
+      "type": "monthly",
+      "valid_until": "2025-11-17",
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    },
+    "bot_version": "1.1.0"
+  },
+  "5479036778": {
+    "name": "Кирилл Шистеров",
+    "phone": "905441857382",
+    "username": "StaffordEkb",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "Шарташ - Сибирский тракт, 12,7 км, Сибирский тракт - Уктус, 10,2 км, Уктус - Амундсена, 7,3 км, Амундсена - Мега, 8,2 км, Мега - Палкинский Торфяник, 8,7 км, Палкинский Торфяник - 7 ключей, 13,3 км, 7 ключей - 40й км ЕКАД, 7,9 км, 40й км ЕКАД - Калиновка, 11,7 км, Калиновка - Шарташ, 8,6 км",
+      "pace": "6:00"
+    },
+    "bot_version": "1.0.1"
+  },
+  "209099236": {
+    "name": "Хозяинова Полина",
+    "phone": "79630490202",
+    "username": "polina_khoz",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_7",
+        "stage_8",
+        "stage_9"
+      ],
+      "pace": "6.00"
+    },
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-09-28 06:35:32",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "bot_version": "1.0.1"
+  },
+  "701472374": {
+    "name": "Головкина Ксения",
+    "phone": "79024496452",
+    "username": "kqk1_1",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "5️⃣ Мега - Палкинский Торфяник, 8,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_5",
+        "stage_9"
+      ],
+      "pace": "5:30-7:00"
+    }
+  },
+  "1447820678": {
+    "name": "Стихарев Роман",
+    "phone": "79126111023",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:30"
+    }
+  },
+  "994655796": {
+    "name": "Черных Анастасия",
+    "phone": "79089236139",
+    "username": "Astronastasiya9",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-08-30",
+      "type": "one_time",
+      "valid_until": null
+    }
+  },
+  "2051588941": {
+    "name": "Сивков Евгений",
+    "phone": "79122423330",
+    "username": "SivkovEV",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-28 06:10:40",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenran_number": null
+    },
+    "bot_version": "1.0.1",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 12:19:03",
+      "stages": "9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_9"
+      ],
+      "pace": "6:00"
+    },
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-02 06:07:04",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "464601045": {
+    "name": "Пантюхова Оля",
+    "phone": "+79193837797",
+    "username": "oakrupina",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-08-31",
+      "type": "one_time",
+      "valid_until": null
+    },
+    "bot_version": "1.0.1",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-22 10:27:28",
+      "stages": "9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_9"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "402636743": {
+    "name": "Котов Юрий",
+    "phone": "79201356967",
+    "username": "yourcat42",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-08-31",
+      "type": "one_time",
+      "valid_until": null
+    }
+  },
+  "5481484212": {
+    "name": "Кулагин Антон",
+    "phone": "79222020392",
+    "username": "antonantonov25",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км",
+      "stages_ids": [
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "396316433": {
+    "name": "Желнин Валерий",
+    "phone": "+79122005080",
+    "username": "jelninv",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:00"
+    },
+    "iremel": {
+      "is_registered": true,
+      "registration_date": "2025-10-17 20:01:17",
+      "payment_type": "prepay",
+      "payment_amount": 3750,
+      "diet_restrictions": "Нет",
+      "preferences": "Ради глинтвейна только и еду"
+    }
+  },
+  "339263057": {
+    "name": "Панова Наталья",
+    "phone": "79632704080",
+    "username": "panovan",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 09:18:39",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "bot_version": "1.1.0",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-25 18:23:28",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "5158505740": {
+    "name": "Зацепина Елена",
+    "phone": "79655157988",
+    "username": "running_kitty",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-06",
+      "type": "one_time",
+      "valid_until": null
+    },
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-14 08:28:29",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6"
+      ],
+      "pace": "6:00"
+    },
+    "bot_version": "1.1.0"
+  },
+  "401275363": {
+    "name": "Зайнутдинов Илья",
+    "phone": "79122178965",
+    "username": null,
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-06",
+      "type": "one_time",
+      "valid_until": null
+    }
+  },
+  "517298182": {
+    "name": "Чепурина Мария",
+    "phone": "79623102787",
+    "username": "m_littlebird",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 19:26:05",
+      "type": "monthly",
+      "valid_until": "2025-11-03",
+      "registration_for_date": null,
+      "gruppenran_number": null
+    },
+    "breakfast_order": {
+      "items": {
+        "kasha_grechka": 1
+      },
+      "order_date": "2025-10-04 19:27:20",
+      "total_price": 240
+    },
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 19:29:48",
+      "stages": "5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_5",
+        "stage_6",
+        "stage_9"
+      ],
+      "pace": "6:00"
+    },
+    "bot_version": "1.0.1"
+  },
+  "424945105": {
+    "name": "Устюгов Станислав",
+    "phone": "79292200512",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:00-6:30"
+    }
+  },
+  "192778916": {
+    "name": "Белова Мария",
+    "phone": "79221429510",
+    "username": "MarusiaBelova",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-09-28 05:58:50",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    }
+  },
+  "179864433": {
+    "name": "Федотов Владимир",
+    "phone": "79268880346",
+    "username": "Vladimir_Fedotov_I",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-07",
+      "type": "one_time",
+      "valid_until": null
+    }
+  },
+  "419138242": {
+    "name": "Юра Михайлов",
+    "phone": "79126698389",
+    "username": "mikhay_love_foto",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-07",
+      "type": "one_time",
+      "valid_until": null
+    },
+    "bot_version": "1.0.1"
+  },
+  "890613706": {
+    "name": "Крицкий Данил",
+    "phone": "79826359535",
+    "username": "danny171089",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "5.00"
+    },
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-13",
+      "type": "one_time",
+      "valid_until": null
+    },
+    "bot_version": "1.0.1"
+  },
+  "1221102757": {
+    "name": "Бирюкова Вера",
+    "phone": "79089256824",
+    "username": "faithandthephobia",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км",
+      "stages_ids": [
+        "stage_4",
+        "stage_5",
+        "stage_6"
+      ],
+      "pace": "6:00"
+    },
+    "bot_version": "1.0.1"
+  },
+  "309629045": {
+    "name": "Завьялова Анна",
+    "phone": "79126558138",
+    "username": "cherry_sky",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_4",
+        "stage_5",
+        "stage_9"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "527336873": {
+    "name": "Фисенко Павел",
+    "phone": "79128054460",
+    "username": "pafis",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-09",
+      "type": "one_time",
+      "valid_until": null
+    }
+  },
+  "5110418161": {
+    "name": "Леонтьев Денис",
+    "phone": "79326999955",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "5200134671": {
+    "name": "Пономаренко Алена",
+    "phone": "79193840920",
+    "username": "alenap997",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_9"
+      ],
+      "pace": "6:0"
+    },
+    "bot_version": "1.0.1",
+    "gruppenrun": {
+      "is_registered": true,
+      "registration_date": "2025-10-22 18:57:59",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "323818742": {
+    "name": "Соколов Александр",
+    "phone": "79126999523",
+    "username": "avsokolov1",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-13",
+      "type": "one_time",
+      "valid_until": null
+    }
+  },
+  "1303768266": {
+    "name": "Дмитриев Сергей",
+    "phone": "79502011320",
+    "username": null,
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-13",
+      "type": "one_time",
+      "valid_until": null
+    },
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-19 05:53:37",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    },
+    "bot_version": "1.1.0",
+    "iremel": {
+      "is_registered": true,
+      "registration_date": "2025-11-03 22:11:18",
+      "payment_type": "full",
+      "payment_amount": 7500,
+      "diet_restrictions": "\"_\"",
+      "preferences": "\"_\""
+    }
+  },
+  "290081366": {
+    "name": "Денисов Денис",
+    "phone": "+79226065587",
+    "username": "rocks_and_travel",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_9",
+        "stage_2",
+        "stage_3",
+        "stage_4"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "333169587": {
+    "name": "Боровиков Дмитрий",
+    "phone": "79122538626",
+    "username": "d1marik",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "487637244": {
+    "name": "Бурков Михаил",
+    "phone": "79049864852",
+    "username": "MyriadSys",
+    "krugosvetka": {
+      "is_registered": true,
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5"
+      ],
+      "pace": "6:00"
+    },
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 15:03:22",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "iremel": {
+      "is_registered": true,
+      "registration_date": "2025-10-17 18:39:43",
+      "payment_type": "prepay",
+      "payment_amount": 3750,
+      "diet_restrictions": "Нет",
+      "preferences": "Нет"
+    },
+    "bot_version": "1.0.2",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-01 10:44:49",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "616811827": {
+    "name": "Соколова Оксана",
+    "phone": "79011502745",
+    "username": "OksanaSokoLove",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-09-28 06:34:35",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-12 06:49:04",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "761299206": {
+    "name": "Юнусова Лилиана",
+    "phone": "79506307713",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-09-26 10:26:52",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "5:30"
+    },
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 17:48:40",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    }
+  },
+  "5279524320": {
+    "name": "Дмитриева Ангелина",
+    "phone": "79000425422",
+    "username": "D_Angel29",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-26 21:19:48",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenran_number": null
+    },
+    "breakfast_order": {
+      "items": {
+        "kasha_ris": 1
+      },
+      "order_date": "2025-09-26 21:20:12",
+      "total_price": 270
+    }
+  },
+  "478308281": {
+    "name": "Таубе Кирилл",
+    "phone": "79221478569",
+    "username": null,
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-27 10:40:31",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenran_number": null
+    }
+  },
+  "5141081573": {
+    "name": "Шевнин Константин",
+    "phone": "79126644356",
+    "username": "zapcheg",
+    "gruppenran": {
+      "is_registered": false,
+      "registration_date": "2025-09-27 10:53:51",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenran_number": null
+    }
+  },
+  "278016221": {
+    "name": "Бубнова Людмила",
+    "phone": "79090226102",
+    "username": "BubnovaLudmila",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-09-29 16:55:09",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "538075406": {
+    "name": "Таланцев Владимир",
+    "phone": "79221382365",
+    "username": "Vladimir5413",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-09-29 21:25:08",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:15"
+    }
+  },
+  "1143827788": {
+    "name": "Захарова Оксана",
+    "phone": "79632711616",
+    "username": "oks_zakharova",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-09-30 09:33:25",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_8",
+        "stage_9"
+      ],
+      "pace": "5:30"
+    },
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 15:36:19",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "bot_version": "1.0.1"
+  },
+  "1230631935": {
+    "name": "Захаров Артем",
+    "phone": "79001985776",
+    "username": "Yes_I_Am66",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-09-30 21:36:53",
+      "stages": "2️⃣ Сибирский тракт - Уктус, 10,2 км",
+      "stages_ids": [
+        "stage_2"
+      ],
+      "pace": "5:30"
+    },
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-05 09:17:19",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "12.10.2025",
+      "gruppenran_number": 279
+    }
+  },
+  "116674374": {
+    "name": "Радыгин Владимир",
+    "phone": "79826388555",
+    "username": "Vol96",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-03 19:24:14",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-02 06:19:57",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    },
+    "bot_version": "1.0.1"
+  },
+  "866824642": {
+    "name": "Выскребенцев Максим",
+    "phone": "79086324721",
+    "username": "MaximVyskrebentcev",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 15:11:44",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-13 13:28:25",
+      "stages": "3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "stage_4",
+        "stage_3"
+      ],
+      "pace": "6:00"
+    },
+    "bot_version": "1.0.1",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-01 19:29:47",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "191269794": {
+    "name": "Фамиев Максим",
+    "phone": "79678528944",
+    "username": "robin_bobin_who",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 18:11:01",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "breakfast_order": {
+      "items": {
+        "omlet_bacon": 1
+      },
+      "order_date": "2025-10-04 18:12:09",
+      "total_price": 350
+    }
+  },
+  "136115900": {
+    "name": "Дудин Григорий",
+    "phone": "79655356983",
+    "username": "grndud",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 18:28:59",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-16 18:33:57",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2"
+      ],
+      "pace": "5:30"
+    },
+    "bot_version": "1.0.1"
+  },
+  "721350747": {
+    "name": "Пупков Дмитрий",
+    "phone": "79221484917",
+    "username": "dimka9619",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 19:49:57",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    }
+  },
+  "959098871": {
+    "name": "Полина Кошель",
+    "phone": "79086391459",
+    "username": "koshpolina",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 21:05:52",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    }
+  },
+  "552634425": {
+    "name": "Выскребенцева Анна",
+    "phone": "79126077744",
+    "username": "AnnaVyskrebenceva",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-04 22:16:32",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "05.10.2025",
+      "gruppenran_number": 278
+    },
+    "bot_version": "1.0.1",
+    "iremel": {
+      "is_registered": true,
+      "registration_date": "2025-10-27 18:10:56",
+      "payment_type": "prepay",
+      "payment_amount": 3750,
+      "diet_restrictions": "Нет",
+      "preferences": "Нет"
+    },
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-02 06:27:59",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "589945436": {
+    "name": "Ткаченко Артём",
+    "phone": "79292228673",
+    "username": "bearded_shaman",
+    "gruppenran": {
+      "is_registered": true,
+      "registration_date": "2025-10-05 00:47:50",
+      "type": "one_time",
+      "valid_until": null,
+      "registration_for_date": "12.10.2025",
+      "gruppenran_number": 279
+    },
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-18 21:13:57",
+      "stages": "3️⃣ Уктус - Амундсена, 7,3 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_3",
+        "stage_9"
+      ],
+      "pace": "5:30"
+    },
+    "bot_version": "1.1.0"
+  },
+  "403303493": {
+    "name": "Суравегин Антон",
+    "phone": "79122449860",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-05 20:05:24",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:20"
+    }
+  },
+  "6123947784": {
+    "name": "Максимов Артём",
+    "phone": "79676302320",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-06 17:57:22",
+      "stages": "3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "473228668": {
+    "name": "Елфимова Анастасия",
+    "phone": "79826103071",
+    "username": "aelfimova",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-10 20:45:00",
+      "stages": "5️⃣ Мега - Палкинский Торфяник, 8,7 км",
+      "stages_ids": [
+        "stage_5"
+      ],
+      "pace": "6:00"
+    },
+    "bot_version": "1.0.1"
+  },
+  "560992991": {
+    "name": "Доронин Игорь",
+    "phone": "+79617730790",
+    "username": "DonRonin",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-11 15:12:06",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "5202974147": {
+    "name": "Королёв Милан",
+    "phone": "79582355249",
+    "username": "Milan_Korolev",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-12 05:55:38",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "979152580": {
+    "name": "Банникова Таня",
+    "phone": "79049862746",
+    "username": "ona_v_gorah",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-13 17:33:28",
+      "stages": "4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км",
+      "stages_ids": [
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "1782874158": {
+    "name": "Филиппова Екатерина",
+    "phone": "79048721009",
+    "username": "EkaterinaMi91",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-14 06:43:20",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_6",
+        "stage_7"
+      ],
+      "pace": "6:00"
+    },
+    "bot_version": "1.0.1"
+  },
+  "859004015": {
+    "name": "Рыжов Сергей",
+    "phone": "79617778448",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-15 07:33:59",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4"
+      ],
+      "pace": "6:00"
+    },
+    "bot_version": "1.0.1"
+  },
+  "172311304": {
+    "name": "Казанцев Тимур",
+    "phone": "+79193031487",
+    "username": "tkazantsev",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-16 09:55:56",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_4",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "1553860959": {
+    "name": "Паздникова Екатерина",
+    "phone": "79028773581",
+    "username": "Ekaterina_2666",
+    "iremel": {
+      "is_registered": true,
+      "registration_date": "2025-10-17 19:37:32",
+      "payment_type": "prepay",
+      "payment_amount": 3750,
+      "diet_restrictions": "Нет",
+      "preferences": "Нет"
+    },
+    "bot_version": "1.0.1",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-20 12:25:03",
+      "stages": "5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км",
+      "stages_ids": [
+        "stage_6",
+        "stage_7",
+        "stage_5"
+      ],
+      "pace": "6:10"
+    }
+  },
+  "1304621833": {
+    "name": "Окунева Татьяна",
+    "phone": "79220310178",
+    "username": "TanyOkuneva",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-17 20:03:20",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_6",
+        "stage_5",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:30"
+    }
+  },
+  "408690041": {
+    "name": "Онегова Анастасия",
+    "phone": "79058090425",
+    "username": "nastya_ocr",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-17 20:14:47",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    },
+    "bot_version": "1.0.1",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-22 17:41:58",
+      "stages": "3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км",
+      "stages_ids": [
+        "stage_4",
+        "stage_3"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "342568553": {
+    "name": "Компанец Илья",
+    "phone": "+79089015175",
+    "username": "iluha_com_photo",
+    "bot_version": "1.0.1"
+  },
+  "1030616523": {
+    "name": "Мозолева Елизавета",
+    "phone": "79090011099",
+    "username": "elisabettia",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-17 22:42:19",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3"
+      ],
+      "pace": "6:00"
+    },
+    "bot_version": "1.0.1"
+  },
+  "1379856677": {
+    "name": "Бурков Никита Юрьевич",
+    "phone": "79122631624",
+    "username": null,
+    "iremel": {
+      "is_registered": true,
+      "registration_date": "2025-10-18 11:56:40",
+      "payment_type": "prepay",
+      "payment_amount": 3750,
+      "diet_restrictions": "Нет",
+      "preferences": "Нет"
+    }
+  },
+  "1377975691": {
+    "name": "Камнев Даниил",
+    "phone": "79122777876",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-18 19:40:50",
+      "stages": "9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_9"
+      ],
+      "pace": "5:30"
+    }
+  },
+  "587168725": {
+    "name": "Иванова Ольга",
+    "phone": "79222232236",
+    "username": "little_bit_cat",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-18 20:33:37",
+      "stages": "3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км",
+      "stages_ids": [
+        "stage_3",
+        "stage_4"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "721521785": {
+    "name": "Скоморохов Сергей",
+    "phone": "79676318419",
+    "username": "ekbsergey",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-19 08:45:57",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    },
+    "bot_version": "1.0.1",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 08:02:12",
+      "stages": "2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км",
+      "stages_ids": [
+        "stage_2",
+        "stage_3"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "635480197": {
+    "name": "Ромашов Алексей",
+    "phone": "79826393353",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-19 09:13:29",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:00"
+    },
+    "bot_version": "1.0.1"
+  },
+  "5377862533": {
+    "bot_version": "1.0.1"
+  },
+  "1742856792": {
+    "bot_version": "1.0.1"
+  },
+  "514522379": {
+    "bot_version": "1.0.1"
+  },
+  "923571076": {
+    "bot_version": "1.0.1",
+    "name": "Забнин Евгений",
+    "phone": "+79222093432",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-20 10:25:38",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9",
+        "all_stages"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "1953917209": {
+    "bot_version": "1.0.1"
+  },
+  "418914379": {
+    "bot_version": "1.0.1",
+    "name": "Рыжова Наталья",
+    "phone": "79089201710",
+    "username": null,
+    "iremel": {
+      "is_registered": true,
+      "registration_date": "2025-10-20 10:58:13",
+      "payment_type": "full",
+      "payment_amount": 7500,
+      "diet_restrictions": "Нет",
+      "preferences": "Не пью глинтвейн, замените на б/а напиток"
+    }
+  },
+  "687139846": {
+    "bot_version": "1.0.1",
+    "name": "Александрова Валерия",
+    "phone": "79024092737",
+    "username": "valeria_a_eng",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-20 11:18:38",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_8",
+        "stage_9"
+      ],
+      "pace": "6:30"
+    }
+  },
+  "714216020": {
+    "bot_version": "1.0.1",
+    "name": "Самойленко Надежда",
+    "phone": "79222079476",
+    "username": "Nady_Samoylenko",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-20 11:33:21",
+      "stages": "4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км",
+      "stages_ids": [
+        "stage_4",
+        "stage_5"
+      ],
+      "pace": "6:00-6:30"
+    }
+  },
+  "456637879": {
+    "bot_version": "1.0.1"
+  },
+  "252246306": {
+    "bot_version": "1.0.1",
+    "name": "Леонтьев Владимир",
+    "phone": "79221125000",
+    "username": "VovaLeontev84",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-20 14:02:47",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_8",
+        "stage_9",
+        "stage_6",
+        "stage_7",
+        "all_stages"
+      ],
+      "pace": "5:30"
+    }
+  },
+  "906368348": {
+    "bot_version": "1.0.1"
+  },
+  "465797164": {
+    "bot_version": "1.0.1",
+    "name": "банников паша",
+    "phone": "79630332355",
+    "username": "PaulBann",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-20 15:26:55",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_9",
+        "stage_8",
+        "stage_7",
+        "all_stages"
+      ],
+      "pace": "5:30"
+    }
+  },
+  "1266550487": {
+    "bot_version": "1.0.1",
+    "name": "Ивонин Владимир",
+    "phone": "79126315232",
+    "username": "Deodoh",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-20 19:42:19",
+      "stages": "9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_9"
+      ],
+      "pace": "6:10-6:20"
+    }
+  },
+  "5139932057": {
+    "bot_version": "1.0.1",
+    "name": "Коликов Игорь",
+    "phone": "79068029199",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-21 04:28:23",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_9"
+      ],
+      "pace": "5:00"
+    }
+  },
+  "416585164": {
+    "bot_version": "1.0.1"
+  },
+  "161948684": {
+    "bot_version": "1.1.0",
+    "name": "Maxilford",
+    "phone": "79226114082",
+    "username": "maxilford",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-01 10:42:26",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "151777593": {
+    "bot_version": "1.0.1",
+    "name": "Батуева Анастасия",
+    "phone": "79193991005",
+    "username": "fd8fd8",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-22 09:52:38",
+      "stages": "9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_9"
+      ],
+      "pace": "6:30"
+    }
+  },
+  "917640491": {
+    "bot_version": "1.0.1"
+  },
+  "836662618": {
+    "bot_version": "1.0.1",
+    "name": "Нечаев Алексей",
+    "phone": "79022687979",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-23 09:52:28",
+      "stages": "6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "766906087": {
+    "bot_version": "1.0.1"
+  },
+  "405697446": {
+    "bot_version": "1.0.1"
+  },
+  "337990915": {
+    "bot_version": "1.0.1"
+  },
+  "118497362": {
+    "bot_version": "1.0.1"
+  },
+  "389132599": {
+    "bot_version": "1.0.1"
+  },
+  "1358282549": {
+    "bot_version": "1.0.1"
+  },
+  "5956942712": {
+    "bot_version": "1.0.1"
+  },
+  "222222603": {
+    "bot_version": "1.0.1",
+    "name": "Мезенцева Наталия",
+    "phone": "79222007418",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-22 15:04:20",
+      "stages": "5️⃣ Мега - Палкинский Торфяник, 8,7 км",
+      "stages_ids": [
+        "stage_5"
+      ],
+      "pace": "6.20"
+    }
+  },
+  "175901801": {
+    "bot_version": "1.0.1",
+    "name": "Огородникова Катя",
+    "phone": "79122015055",
+    "username": "KattySadova",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-22 15:19:04",
+      "stages": "5️⃣ Мега - Палкинский Торфяник, 8,7 км",
+      "stages_ids": [
+        "stage_5"
+      ],
+      "pace": "5:30"
+    }
+  },
+  "718119041": {
+    "bot_version": "1.0.1"
+  },
+  "1063517731": {
+    "bot_version": "1.0.1",
+    "name": "Вячеслав Большухин",
+    "phone": "79122789713",
+    "username": "spbmiru",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-24 10:05:29",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "224781219": {
+    "bot_version": "1.0.1"
+  },
+  "1108884934": {
+    "bot_version": "1.0.1"
+  },
+  "106041882": {
+    "bot_version": "1.0.1",
+    "name": "Потапов Андрей",
+    "phone": "79122733009",
+    "username": "Andy_4ox",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-22 20:52:58",
+      "stages": "2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км",
+      "stages_ids": [
+        "stage_2",
+        "stage_3"
+      ],
+      "pace": "5:30"
+    }
+  },
+  "383019880": {
+    "bot_version": "1.0.1"
+  },
+  "1682681954": {
+    "bot_version": "1.0.1"
+  },
+  "314172063": {
+    "bot_version": "1.0.1"
+  },
+  "428594181": {
+    "bot_version": "1.0.1",
+    "name": "Борич Михаил",
+    "phone": "79122822822",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-23 09:51:40",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км, 4️⃣ Амундсена - Мега, 8,2 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4"
+      ],
+      "pace": "5:30"
+    }
+  },
+  "240073351": {
+    "bot_version": "1.0.1"
+  },
+  "882101752": {
+    "bot_version": "1.0.1"
+  },
+  "683032653": {
+    "bot_version": "1.0.1",
+    "name": "Огнев Павел",
+    "phone": "79292237717",
+    "username": "opg711",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-23 10:20:26",
+      "stages": "4️⃣ Амундсена - Мега, 8,2 км",
+      "stages_ids": [
+        "stage_4"
+      ],
+      "pace": "5:10"
+    }
+  },
+  "750980214": {
+    "bot_version": "1.0.1"
+  },
+  "890919213": {
+    "bot_version": "1.0.1"
+  },
+  "1086662721": {
+    "bot_version": "1.0.1",
+    "name": "Смирнов Алексей",
+    "phone": "79220361004",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-23 11:54:42",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_9",
+        "stage_8",
+        "stage_7",
+        "stage_6",
+        "stage_5",
+        "stage_4",
+        "stage_3",
+        "stage_2",
+        "stage_1",
+        "all_stages"
+      ],
+      "pace": "6:30"
+    }
+  },
+  "401490715": {
+    "bot_version": "1.0.1"
+  },
+  "941150684": {
+    "bot_version": "1.0.1",
+    "name": "Нохрина Анна",
+    "phone": "+79676305544",
+    "username": "Annyta13",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 13:02:00",
+      "stages": "8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_8",
+        "stage_9"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "537903932": {
+    "bot_version": "1.0.1",
+    "name": "Масалков Максим",
+    "phone": "79089080021",
+    "username": "Maxim_Masalkov",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-23 13:40:46",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "812833190": {
+    "bot_version": "1.0.1",
+    "name": "Каркавина Ольга",
+    "phone": "79655131107",
+    "username": "kAtletka_irbis",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-23 13:56:04",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "5214654665": {
+    "bot_version": "1.0.1"
+  },
+  "380973837": {
+    "bot_version": "1.0.1",
+    "name": "Смирнов Алексей",
+    "phone": "79193884524",
+    "username": "Hidalgo88",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 22:38:32",
+      "stages": "8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_8",
+        "stage_9"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "421712229": {
+    "bot_version": "1.0.1",
+    "name": "Фролов Илья",
+    "phone": "79089091234",
+    "username": "elbigotededali",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-23 23:14:48",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 4️⃣ Амундсена - Мега, 8,2 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_4",
+        "stage_7",
+        "stage_9"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "1974438695": {
+    "bot_version": "1.0.1",
+    "name": "Елманова Алена",
+    "phone": "79126083742",
+    "username": "Amazzonka77",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 16:39:00",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 3️⃣ Уктус - Амундсена, 7,3 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_3",
+        "stage_5",
+        "stage_7",
+        "stage_9"
+      ],
+      "pace": "6:00-6:30"
+    }
+  },
+  "318084345": {
+    "bot_version": "1.0.1"
+  },
+  "294423433": {
+    "bot_version": "1.0.1",
+    "name": "Зевако Дмитрий",
+    "phone": "+79022707471",
+    "username": "dzevako",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 10:59:22",
+      "stages": "4️⃣ Амундсена - Мега, 8,2 км",
+      "stages_ids": [
+        "stage_4"
+      ],
+      "pace": "5:00"
+    }
+  },
+  "1073204902": {
+    "bot_version": "1.0.1",
+    "name": "Егоров Дмитрий",
+    "phone": "79026012882",
+    "username": "dimae87",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 11:19:32",
+      "stages": "4️⃣ Амундсена - Мега, 8,2 км, 5️⃣ Мега - Палкинский Торфяник, 8,7 км, 6️⃣ Палкинский Торфяник - 7 ключей, 13,3 км, 7️⃣ 7 ключей - 40й км ЕКАД, 7,9 км, 8️⃣ 40й км ЕКАД - Калиновка, 11,7 км, 9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_8",
+        "stage_9"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "502614045": {
+    "bot_version": "1.0.1",
+    "name": "Савостенок Евгений",
+    "phone": "79122333307",
+    "username": "Savostenok",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 13:26:12",
+      "stages": "Весь круг 😎",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3",
+        "stage_4",
+        "stage_5",
+        "stage_6",
+        "stage_7",
+        "stage_9",
+        "stage_8",
+        "all_stages"
+      ],
+      "pace": "6:00"
+    }
+  },
+  "353042606": {
+    "bot_version": "1.0.1",
+    "name": "Каркавин Евгений",
+    "phone": "79506433525",
+    "username": "Evgeny2388",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-24 15:01:41",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "1635633063": {
+    "bot_version": "1.0.1",
+    "name": "Сельнихина Ирина",
+    "phone": "79086325381",
+    "username": null,
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 15:25:26",
+      "stages": "1️⃣ Шарташ - Сибирский тракт, 12,7 км, 2️⃣ Сибирский тракт - Уктус, 10,2 км, 3️⃣ Уктус - Амундсена, 7,3 км",
+      "stages_ids": [
+        "stage_1",
+        "stage_2",
+        "stage_3"
+      ],
+      "pace": "6.00"
+    }
+  },
+  "934049549": {
+    "bot_version": "1.0.1"
+  },
+  "268209037": {
+    "bot_version": "1.0.1"
+  },
+  "921238549": {
+    "bot_version": "1.0.1"
+  },
+  "439465621": {
+    "bot_version": "1.0.1"
+  },
+  "131201893": {
+    "bot_version": "1.0.1",
+    "name": "Киловольтов Александр",
+    "phone": "79049830858",
+    "username": "Kilovoltov",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-24 22:37:16",
+      "stages": "9️⃣ Калиновка - Шарташ, 8,6 км",
+      "stages_ids": [
+        "stage_9"
+      ],
+      "pace": "6:30"
+    }
+  },
+  "1752954382": {
+    "bot_version": "1.0.1",
+    "name": "Дарья Киселева",
+    "phone": "79089141675",
+    "username": "KisDarya",
+    "krugosvetka": {
+      "is_registered": true,
+      "registration_date": "2025-10-25 06:02:24",
+      "stages": "4️⃣ Амундсена - Мега, 8,2 км",
+      "stages_ids": [
+        "stage_4"
+      ],
+      "pace": "6:30"
+    }
+  },
+  "369674311": {
+    "bot_version": "1.0.1"
+  },
+  "1268345075": {
+    "bot_version": "1.0.1"
+  },
+  "477760905": {
+    "bot_version": "1.0.1"
+  },
+  "321696176": {
+    "bot_version": "1.0.1",
+    "name": "Гарбуз Денис",
+    "phone": "79826586780",
+    "username": "Denis_Garbuz",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-10-26 19:57:44",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "882862170": {
+    "bot_version": "1.0.1"
+  },
+  "442444181": {
+    "bot_version": "1.0.1"
+  },
+  "386776094": {
+    "bot_version": "1.0.1"
+  },
+  "382922123": {
+    "bot_version": "1.0.1"
+  },
+  "5137394792": {
+    "bot_version": "1.0.1"
+  },
+  "1561681639": {
+    "bot_version": "1.0.1"
+  },
+  "819644669": {
+    "bot_version": "1.0.1"
+  },
+  "737458338": {
+    "bot_version": "1.0.1"
+  },
+  "651482209": {
+    "bot_version": "1.0.1"
+  },
+  "friend_iremel_520744": {
+    "name": "Юрий Калистратов",
+    "phone": "+7 904 387 2024",
+    "registered_by": "418914379",
+    "registered_by_name": "Рыжова Наталья",
+    "username": null,
+    "iremel": {
+      "is_registered": true,
+      "registration_date": "2025-10-30 18:37:04",
+      "payment_type": "full",
+      "payment_amount": 7500,
+      "diet_restrictions": "Нет",
+      "preferences": "Нет"
+    }
+  },
+  "1681723978": {
+    "bot_version": "1.0.1"
+  },
+  "5654056046": {
+    "bot_version": "1.0.1"
+  },
+  "1059257068": {
+    "bot_version": "1.0.1"
+  },
+  "friend_569035": {
+    "name": "kira_antsireva",
+    "phone": "+7 (922) 613-24-15",
+    "registered_by": "161948684",
+    "registered_by_name": "Maxilford",
+    "username": null,
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-01 10:45:30",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "friend_655911": {
+    "name": "Екатерина Паздникова",
+    "phone": "+79028773581",
+    "registered_by": "487637244",
+    "registered_by_name": "Бурков Михаил",
+    "username": null,
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-01 11:02:38",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "543979883": {
+    "bot_version": "1.0.1"
+  },
+  "912777321": {
+    "bot_version": "1.0.1"
+  },
+  "743635783": {
+    "bot_version": "1.0.1"
+  },
+  "228690640": {
+    "bot_version": "1.0.1",
+    "name": "Ашихмин Матвей",
+    "phone": "79122579258",
+    "username": "ashihminms",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-01 18:37:30",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "413541935": {
+    "bot_version": "1.0.1",
+    "name": "Ядрышников Вячеслав",
+    "phone": "79222296007",
+    "username": "vyacheslavay",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-01 20:11:59",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "1800442686": {
+    "bot_version": "1.0.1"
+  },
+  "425141327": {
+    "bot_version": "1.0.1",
+    "name": "Гарах Илья",
+    "phone": "79028755528",
+    "username": "ilyasayli",
+    "gruppenrun": {
+      "is_registered": false,
+      "registration_date": "2025-11-02 06:33:22",
+      "type": "onetime",
+      "valid_until": null,
+      "registration_for_date": null,
+      "gruppenrun_number": null
+    }
+  },
+  "464157881": {
+    "bot_version": "1.0.1"
+  },
+  "108117092": {
+    "bot_version": "1.0.1"
+  },
+  "1394956451": {
+    "bot_version": "1.0.2"
+  },
+  "478840762": {
+    "bot_version": "1.1.0"
+  },
+  "163322798": {
+    "bot_version": "1.1.0"
+  }
+}

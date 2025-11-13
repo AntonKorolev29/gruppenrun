@@ -39,35 +39,19 @@ async def on_startup(dp):
     cleanup_expired_onetime_registrations(all_data)
     
     # ===== ОЧИСТКА ТРЕЙЛ =====
+    # Очистка в воскресенье 00:00 (после субботней тренировки)
     today = datetime.now()
-    if today.weekday() == 6:  # 6 = Воскресенье (после субботы)
+    if today.weekday() == 6:  # 6 = Воскресенье
         logger.info("🗑️ Очистка регистраций Трейл...")
-        
+    
         all_users = db.get_all_users()
         for user in all_users:
             user_id = user['user_id']
             reg = db.check_gruppenrun_registration(user_id, location='uktus')
-            
+        
             if reg.get('is_active') and reg.get('type') == 'onetime':
                 db.unregister_gruppenrun(user_id, location='uktus')
                 logger.info(f"🗑️ Трейл: {user_id} - регистрация удалена")
-    
-    logger.info("Очистка завершена.")
-
-# ===== ОЧИСТКА ТРЕЙЛ =====
-# Очистка в воскресенье 00:00 (после субботней тренировки)
-today = datetime.now()
-if today.weekday() == 6:  # 6 = Воскресенье
-    logger.info("🗑️ Очистка регистраций Трейл...")
-    
-    all_users = db.get_all_users()
-    for user in all_users:
-        user_id = user['user_id']
-        reg = db.check_gruppenrun_registration(user_id, location='uktus')
-        
-        if reg.get('is_active') and reg.get('type') == 'onetime':
-            db.unregister_gruppenrun(user_id, location='uktus')
-            logger.info(f"🗑️ Трейл: {user_id} - регистрация удалена")
 
 # ==================== ЕЖЕДНЕВНЫЙ ОТЧЁТ ====================
 
@@ -97,6 +81,24 @@ async def send_daily_report(bot: Bot):
             logger.error(f"❌ Ошибка при отправке отчёта: {e}")
             # Ждём 1 час и попробуем снова
             await asyncio.sleep(3600)
+
+# ===== ФУНКЦИЯ ОЧИСТКИ ТРЕЙЛ =====
+async def clear_uktus_registrations():
+    """Очищает разовые регистрации Трейл в воскресенье 00:00"""
+    import sqlite3
+    logger.info("🗑️ Очистка регистраций Трейл...")
+    
+    conn = sqlite3.connect('bot_data.db')
+    cursor = conn.cursor()
+    
+    # Удаляем разовые регистрации
+    cursor.execute("DELETE FROM gruppenrun_registrations WHERE location = 'uktus' AND type = 'onetime'")
+    deleted = cursor.rowcount
+    
+    conn.commit()
+    conn.close()
+    
+    logger.info(f"Очистка Трейл завершена. Удалено: {deleted}")
 
 async def main():
     """Основная функция бота"""

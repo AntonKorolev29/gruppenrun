@@ -3,7 +3,7 @@ from aiogram.filters import StateFilter
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from keyboards.reply import main_kb, admin_kb, back_kb, phone_kb, payment_kb
+from keyboards.reply import main_kb, admin_kb, back_kb, phone_kb, payment_kb, register_friend_uktus_kb
 from datetime import datetime, timedelta, date
 from utils.database import db
 from config import ADMIN_ID, PAYMENT_LINK_UKTUS, PAYMENT_MONTH_LINK_UKTUS
@@ -39,7 +39,7 @@ uktus_main_kb = InlineKeyboardMarkup(inline_keyboard=[
 
 payment_type_uktus_kb = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text="💰 Разовое посещение (300₽)", callback_data="uktus_payment_onetime")],
-    [InlineKeyboardButton(text="🎟 Месячный абонемент (1000₽)", callback_data="uktus_payment_monthly")]
+    [InlineKeyboardButton(text="🎟  Абонемент на месяц (1000₽)", callback_data="uktus_payment_monthly")]
 ])
 
 back_to_uktus_kb = InlineKeyboardMarkup(inline_keyboard=[

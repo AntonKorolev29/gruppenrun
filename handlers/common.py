@@ -81,6 +81,20 @@ async def show_profile(message: types.Message, state: FSMContext):
         )
         await state.set_state(ProfileFillState.waiting_for_fullname)
         return
+
+# В админ-панели (handlers/common.py или админском разделе):
+@router.message(F.text == "⚙️ Управление Группенран Трейл")
+async def admin_gruppenrun_uktus(message: types.Message):
+    """Админское управление Группенран Трейл"""
+    if str(message.from_user.id) != str(ADMIN_ID):
+        await message.answer("⛔️ Доступ запрещён")
+        return
+    
+    await message.answer(
+        "⚙️ <b>Управление Группенран Трейл</b>",
+        parse_mode="HTML",
+        reply_markup=uktus_admin_kb  # Админские кнопки
+    )
     
     # ✅ ИСПОЛЬЗУЕМ НОВУЮ ФУНКЦИЮ С РАЗДЕЛЕНИЕМ ПО ЛОКАЦИИ
     profile_text = format_profile_display(user_id)
